@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Kavindu Himashana Suraweera. I am an undergraduate university student enrolled in the Bachelor of Computer Science (software engineering) at Edith Cowan University. I have a good knowledge and experience of frontend and backend software development.
+
 <!--
 **Himashana/Himashana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
